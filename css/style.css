@@ -12,7 +12,9 @@ body {
 
 header {
     grid-area: header;
-    background-color: lightgreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 main {
