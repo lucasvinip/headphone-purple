@@ -23,4 +23,4 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 ---
 ## Autor
 - [Lucas Vinicius](https://github.com/lucasvinip)
-- [CLique aqui para entrar no meu linkedin](https://www.linkedin.com/in/lucas-vinicius-686157219/)
+- [Clique aqui para entrar no meu linkedin](https://www.linkedin.com/in/lucas-vinicius-686157219/)
